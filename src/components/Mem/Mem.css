@@ -1,0 +1,11 @@
+.Mem {
+  background-color: white;
+  width: 60%;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.Mem img{
+  max-width: 80%;
+}
